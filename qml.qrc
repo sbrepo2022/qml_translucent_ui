@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>background.jpg</file>
+        <file>BluredSurface.qml</file>
+        <file>ToolsButton.qml</file>
+        <file>EventCatcher.qml</file>
+        <file>textures/config.png</file>
+        <file>textures/headphones.png</file>
+        <file>textures/picture.png</file>
+        <file>textures/polaroid.png</file>
+        <file>RightMenuList.qml</file>
+        <file>textures/pencil.png</file>
+        <file>MenuButton.qml</file>
+        <file>SmallWorkspace.qml</file>
+        <file>BackgroundPage.qml</file>
+        <file>ImageChooseElement.qml</file>
+        <file>background2.jpg</file>
+        <file>textures/done.svg</file>
+        <file>background3.jpg</file>
+        <file>background4.jpg</file>
+    </qresource>
+</RCC>

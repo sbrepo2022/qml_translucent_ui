@@ -1,0 +1,1 @@
+Test QML UI with translucent/blur design.
